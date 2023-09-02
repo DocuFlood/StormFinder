@@ -1,7 +1,7 @@
 
-![GitHub all releases](https://img.shields.io/github/downloads/DocuFlood/StormFinder/total)
+![GitHub all releases](https://img.shields.io/github/downloads/DocuFlood/StormFinder/total)     ![GitHub](https://img.shields.io/github/license/DocuFlood/Stormfinder)
 
-![GitHub](https://img.shields.io/github/license/DocuFlood/Stormfinder)
+
 
 # StormFinder
 This code could help to find the storms among the rainfall data. In particular, it is desinged to find the SCS type II cumulative curve. 
