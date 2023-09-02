@@ -6,4 +6,5 @@ The potential challenge would appear when you want to find the storms among a la
 
 ![carbon (1)](https://github.com/DocuFlood/StormFinder/assets/142851676/a6a6d522-8397-4fa6-8a5d-e38d4f543138)
 
+![GitHub all releases](https://img.shields.io/github/downloads/DocuFlood/StormFinder/total)
 
