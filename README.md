@@ -1,5 +1,5 @@
 
-![GitHub all releases](https://img.shields.io/github/downloads/DocuFlood/StormFinder/total)     ![GitHub](https://img.shields.io/github/license/DocuFlood/Stormfinder)
+![GitHub all releases](https://img.shields.io/github/downloads/DocuFlood/StormFinder/total)     [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit
 
 
 
