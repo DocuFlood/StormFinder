@@ -1,4 +1,4 @@
-https://img.shields.io/github/license/DocuFlood/Stormfinder
+
 
 
 # StormFinder
@@ -8,6 +8,7 @@ The potential challenge would appear when you want to find the storms among a la
 
 ![GitHub all releases](https://img.shields.io/github/downloads/DocuFlood/StormFinder/total)
 
+![GitHub](https://img.shields.io/github/license/DocuFlood/Stormfinder)
 
 
 
