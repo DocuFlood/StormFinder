@@ -1,6 +1,4 @@
-
-![GitHub all releases](https://img.shields.io/github/downloads/DocuFlood/StormFinder/total)     ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-
+[MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 
 # StormFinder
