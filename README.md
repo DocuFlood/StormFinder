@@ -8,3 +8,4 @@ The potential challenge would appear when you want to find the storms among a la
 
 
 
+[![Downloads](https://img.shields.io/github/downloads/your-username/your-repo-name/total?color=blue&style=for-the-badge&logo=github)](https://github.com/your-username/your-repo-name/releases)
