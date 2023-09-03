@@ -1,6 +1,6 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-
+<span style="color:blue">Description of the code:</span>
 # StormFinder
 This code could help to find the storms among the rainfall data. In particular, it is desinged to find the SCS type II cumulative curve. 
 ### Description of the code: 
