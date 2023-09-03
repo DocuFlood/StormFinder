@@ -11,8 +11,7 @@ The potential challenge would appear when you want to find the storms among a la
 
 
 
-## Tutorial video: 
-
+## Tutorial:
 
 
 https://github.com/DocuFlood/StormFinder/assets/142851676/3a510cad-db80-4a0b-8bd4-457f61f43a5f
