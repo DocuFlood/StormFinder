@@ -8,6 +8,7 @@ The potential challenge would appear when you want to find the storms among a la
 
 ![Description of the code](https://img.shields.io/badge/Description%20of%20the%20code-Blue-blue)
 
+🔵 Description of the code:
 
 
 ![carbon (1)](https://github.com/DocuFlood/StormFinder/assets/142851676/163534bc-e38f-49ae-8a3f-abb277274171)
